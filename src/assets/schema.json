@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "age": {
+      "type": "number",
+      "minimum": 5,
+      "multipleOf": 0.1
+    }
+  }
+}
